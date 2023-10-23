@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Immaculate Eseosa Imhariagbe
 =======================================================================================================================================
 
-Full Stack Software Engineer
+Software Engineer
 -------------------------------------
 
 Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C#. Good knowledge of the best practices for web design, user experience, and speed.
