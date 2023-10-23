@@ -10,7 +10,7 @@ Solution-driven web developer adept at contributing to highly collaborative work
 * ✉️  You can contact me at [ese.imhariagbe@gmail.com](mailto:ese.imhariagbe@gmail.com)
 * 🚀  I'm currently working on [Howfa Social Media Web Application](http://localhost:3000)
 * 🧠  I'm learning C#
-* 🤝  I'm open to collaborating on Python Projects
+* 🤝  I'm open to collaborating on .NET Projects
 
 <a href="https://www.twitter.com/codewithkoi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codewithkoi?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
