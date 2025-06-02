@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------------------------
 
-Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C#. Good knowledge of the best practices for web design, user experience, and speed.
+Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C# and WordPress. Good knowledge of the best practices for web design, user experience, and speed.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [ese.imhariagbe@gmail.com](mailto:ese.imhariagbe@gmail.com)
