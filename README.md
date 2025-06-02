@@ -8,9 +8,10 @@ Solution-driven web developer adept at contributing to highly collaborative work
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [ese.imhariagbe@gmail.com](mailto:ese.imhariagbe@gmail.com)
-* 🚀  I'm currently working on [Howfa Social Media Web Application](http://localhost:3000)
-* 🧠  I'm learning C#
-* 🤝  I'm open to collaborating on .NET Projects
+* 🚀  I'm currently working on "Chirpr"
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on MERN Projects
+* Explore some of my projects and websites developed(https://eseosa-projects.carrd.co)
 
 <a href="https://www.twitter.com/codewithkoi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codewithkoi?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
