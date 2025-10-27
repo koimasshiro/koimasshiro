@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Immaculate Eseosa Imhariagbe
 =======================================================================================================================================
 
-Software Engineer
+Full stack developer 
 -------------------------------------
 
-Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C# and WordPress. Good knowledge of the best practices for web design, user experience, and speed.
+Solution-driven developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C# and WordPress. Good knowledge of the best practices for web design, user experience, and speed.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [ese.imhariagbe@gmail.com](mailto:ese.imhariagbe@gmail.com)
 * 🚀  I'm currently working on "Chirpr"
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on MERN Projects
-* Explore some of my projects and websites developed(https://eseosa-projects.carrd.co)
+* Explore some of my projects and websites developed(https://eseosa-imhariagbe.carrd.co/)
 
 <a href="https://www.twitter.com/codewithkoi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codewithkoi?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
