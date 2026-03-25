@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Immaculate Eseosa Imhariagbe
 =======================================================================================================================================
 
-Full stack developer 
+Frontend Engineer | Full stack developer 
 -------------------------------------
 
-Solution-driven developer adept at contributing to highly collaborative work environment and finding solutions. Proven experience developing consumer focused websites using MERN stack, ASP.NET MVC, C# and WordPress. Good knowledge of the best practices for web design, user experience, and speed.
+Solution-driven developer with 3+ years of experience building responsive, high-performance web applications across startups and agencies. Passionate about clean UI, great user experience, and writing maintainable code. Currently expanding into mobile development.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [ese.imhariagbe@gmail.com](mailto:ese.imhariagbe@gmail.com)
 * 🚀  I'm currently working on "Chirpr"
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Mobile Development 
 * 🤝  I'm open to collaborating on MERN Projects
 * Explore some of my projects and websites developed(https://eseosa-imhariagbe.carrd.co/)
 
